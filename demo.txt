@@ -1,11 +1,6 @@
 This is demo file
-<<<<<<< HEAD
 
-=======
-This is demo file
-This is demo file
-This is demo file
->>>>>>> origin/master
+
 
 
 
